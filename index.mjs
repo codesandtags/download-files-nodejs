@@ -25,7 +25,3 @@ const downloadImagesPokemon = async () => {
 
 // Start magic 🪄
 downloadImagesPokemon();
-
-👉
-
-😅
